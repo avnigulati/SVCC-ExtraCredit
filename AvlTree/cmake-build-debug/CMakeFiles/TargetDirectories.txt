@@ -1,3 +1,0 @@
-/home/avni/CLionProject/Assignment13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/avni/CLionProject/Assignment13/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/avni/CLionProject/Assignment13/cmake-build-debug/CMakeFiles/Assignment13.dir
